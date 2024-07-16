@@ -86,14 +86,14 @@
                 "id": ""
             },
             "default_value": "",
-            "tabs": "text",
+            "tabs": "all",
+            "toolbar": "basic",
             "media_upload": 0,
+            "delay": 0,
             "show_in_graphql": 1,
             "graphql_description": "",
             "graphql_field_name": "overview",
-            "graphql_non_null": 0,
-            "toolbar": "full",
-            "delay": 0
+            "graphql_non_null": 0
         },
         {
             "allow_backendsearch": 0,
@@ -117,14 +117,14 @@
                 "id": ""
             },
             "default_value": "",
-            "tabs": "text",
+            "tabs": "all",
+            "toolbar": "basic",
             "media_upload": 0,
+            "delay": 0,
             "show_in_graphql": 1,
             "graphql_description": "",
             "graphql_field_name": "challenges",
-            "graphql_non_null": 0,
-            "toolbar": "full",
-            "delay": 0
+            "graphql_non_null": 0
         },
         {
             "allow_backendsearch": 0,
@@ -148,14 +148,14 @@
                 "id": ""
             },
             "default_value": "",
-            "tabs": "text",
+            "tabs": "all",
+            "toolbar": "basic",
             "media_upload": 0,
+            "delay": 0,
             "show_in_graphql": 1,
             "graphql_description": "",
             "graphql_field_name": "goals",
-            "graphql_non_null": 0,
-            "toolbar": "full",
-            "delay": 0
+            "graphql_non_null": 0
         },
         {
             "allow_backendsearch": 0,
@@ -179,14 +179,14 @@
                 "id": ""
             },
             "default_value": "",
-            "tabs": "text",
+            "tabs": "all",
+            "toolbar": "basic",
             "media_upload": 0,
+            "delay": 0,
             "show_in_graphql": 1,
             "graphql_description": "",
             "graphql_field_name": "solution",
-            "graphql_non_null": 0,
-            "toolbar": "full",
-            "delay": 0
+            "graphql_non_null": 0
         },
         {
             "allow_backendsearch": 0,
@@ -211,7 +211,7 @@
             },
             "default_value": "",
             "tabs": "all",
-            "toolbar": "full",
+            "toolbar": "basic",
             "media_upload": 0,
             "delay": 0,
             "show_in_graphql": 1,
@@ -285,7 +285,7 @@
             },
             "default_value": "",
             "tabs": "all",
-            "toolbar": "full",
+            "toolbar": "basic",
             "media_upload": 1,
             "delay": 0,
             "show_in_graphql": 1,
@@ -325,5 +325,5 @@
     "qef_simple_location_rules": 0,
     "acfe_meta": "",
     "acfe_note": "",
-    "modified": 1721076818
+    "modified": 1721128180
 }
