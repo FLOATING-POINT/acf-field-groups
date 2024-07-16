@@ -1,0 +1,101 @@
+{
+    "key": "group_66832b0ca42b7",
+    "title": "Testimonials",
+    "fields": [
+        {
+            "allow_backendsearch": 0,
+            "show_column_filter": false,
+            "allow_bulkedit": 1,
+            "allow_quickedit": 1,
+            "show_column": 1,
+            "show_column_weight": 1000,
+            "show_column_sortable": 1,
+            "key": "field_66832c3d0bbdd",
+            "label": "Client name",
+            "name": "client_name",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "show_in_graphql": 1,
+            "graphql_description": "",
+            "graphql_field_name": "clientName",
+            "graphql_non_null": 0
+        },
+        {
+            "allow_backendsearch": 0,
+            "show_column_filter": false,
+            "allow_bulkedit": 1,
+            "allow_quickedit": 1,
+            "show_column": 1,
+            "show_column_weight": 1000,
+            "show_column_sortable": false,
+            "key": "field_66832b404d274",
+            "label": "Testimonial",
+            "name": "testimonial",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": "",
+            "placeholder": "",
+            "new_lines": "",
+            "show_in_graphql": 1,
+            "graphql_description": "",
+            "graphql_field_name": "testimonial",
+            "graphql_non_null": 0,
+            "acfe_textarea_code": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "testimonial"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "acf_after_title",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "acfe_display_title": "",
+    "acfe_autosync": [
+        "php",
+        "json"
+    ],
+    "acfe_form": 0,
+    "show_in_graphql": 1,
+    "graphql_field_name": "testimonials",
+    "map_graphql_types_from_location_rules": 0,
+    "graphql_types": "",
+    "qef_simple_location_rules": 0,
+    "acfe_meta": "",
+    "acfe_note": "",
+    "modified": 1721076849
+}
